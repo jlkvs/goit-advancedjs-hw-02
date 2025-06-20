@@ -9,7 +9,7 @@ export default defineConfig(({ command }) => {
     define: {
       [command === 'serve' ? 'global' : '_global']: {},
     },
-    base: '/goit-advancedjs-hw-02',
+    base: '/goit-advancedjs-hw-02/',
     root: 'src',
     build: {
       sourcemap: true,
