@@ -3,6 +3,11 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://jlkvs.github.io/goit-advancedjs-hw-02/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jlkvs/goit-advancedjs-hw-02.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
